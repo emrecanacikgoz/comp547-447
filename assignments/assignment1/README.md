@@ -34,11 +34,12 @@ For example, if you submit your Assignment-1 4 days late; your 3 grace days will
 # Submission
 
 1. Save your notebook and clear all the cells: Select Cell -> All Output -> Clear. This will clear all the outputs from all cells (but will keep the content of all cells).
-2. Select Cell -> Run All. This will run all the cells in order, and will take several minutes.
+2. Select Cell -> Run All. This will run all the cells in order and will take several minutes.
 3. Once you've rerun everything, select File -> Download as -> PDF via LaTeX (If you have trouble using "PDF via LaTex", you can also save the webpage as pdf. Make sure all your solutions especially the coding parts are displayed in the pdf, it's okay if the provided codes get cut off because lines are not wrapped in code cells).
-4. Look at the PDF file and make sure all your solutions are there, displayed correctly. Name your pdf as **username_assignment1.pdf**, e.g. eacikgoz_assignment1.pdf.
+4. Look at the PDF file and make sure all your solutions are there, and displayed correctly. Name your pdf as **username_assignment1.pdf**, e.g. eacikgoz_assignment1.pdf.
 5. Download a .ipynb version of your notebook, please name this as **username_assignment1.ipynb**, e.g. eacikgoz17_assignment1.ipynb.
 6. You must submit both of your **username_assignment1.pdf** and **username_assignment1.ipynb** files to the Blackboard, before the deadline. Please note that failing to submit a PDF version of your Jupyter notebook, by following the steps above, will result in a deduction of points.
 7. Finally, submit your overleaf report in PDF format as **username_assignment1_report.pdf**.
+8. Never submit `.zip` files!
 
-At the end, you msut have three different deliverables from Blackboard: (i) your jupyter notebook, (ii) PDF version of your jupyter notebook, (iii) PDF version of your overleaf report.
+At the end, you must have three different deliverables from Blackboard: (i) your jupyter notebook, (ii) PDF version of your jupyter notebook, (iii) PDF version of your overleaf report. Do not submit `.zip` files!
