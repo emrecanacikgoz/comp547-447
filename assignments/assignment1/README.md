@@ -6,12 +6,27 @@ In this homework, you will implement and train a variety of different autoregres
 * `assignment1.ipynb` : Contains all of the coding and written inline questions, and will automatically generate and display results for you after completing each question. You will submit the notebook to Gradescope after completing the homework. Open it on Colab by clicking on the file, and then "Open in Colab" at the top. **Submit a PDF version of the notebook to the code (Print -> Preview -> Save) on Gradescope in the assignment with (code)**
 * `assignment1_latex` :  Contains LaTeX files and figures needed to generate your PDF submission to Gradescope. Copy the images saved from the notebook into the `figures/` folder and fill out the empty test losses.  **Submit the Latex PDF in the assignment with (PDF)**
 
-You can open the notebook in Google Colab to get access to a free GPU, or you can link Colab to a local runtime to run it on your own GPU.  
+You can open the notebook in Google Colab to get access to a free GPU, or you can link Colab to a local runtime to run it on your own GPU. 
+
+
+# Table of Contents
+* *Question1: 1D Data (25 Points)*
+* *Question2: PixelCNNs (45 Points)*
+* *Question3: Casual Transformer - iGPT (30 Points)*
+* *Bonus: Casual Transformer - Tokenized Images (30 Points)*
 
 
 # Assignment Policy
 
 In our Deep Unsupervised Learning course, all work on assignments must be done individually unless stated otherwise. You can make discussions in an "abstract" way. However, it's crucial to distinguish between constructive discussions and the inappropriate use of resources: turning in someone else’s or your friend's work, in whole or in part, as your own will be considered as a violation of academic integrity. Please note that the former condition also holds for the material found on the web as everything on the web has been written by someone else. In short, using code from your peers or from any online sources as your own work **will not be tolerated**.
+
+# Course Assignments Late Policy: 
+
+You may use up to 7 grace days (in total) over the course of the semester. That is, you can submit your solutions without any penalty if you have free grace days left. Any additional unapproved late submission will be punished (1 day late: 20% off, 2 days late: 40% off, 3 days late: 50% off) and no submission after 3 days will be accepted.
+
+You can use 3 grace days per assignment at most. 
+
+For example, if you submit your Assignment-1 4 days late; your 3 grace days will be used and you'll be punished with 20% off because of +1. If you submit your Assignment-1 7 days late; again your 3 grace days will be used and we'll not accept your submission because of +4.
 
 
 # Submission
