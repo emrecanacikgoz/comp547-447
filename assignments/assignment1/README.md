@@ -15,6 +15,8 @@ You can open the notebook in Google Colab to get access to a free GPU, or you ca
 * *Question3: Casual Transformer - iGPT (30 Points)*
 * *Bonus: Casual Transformer - Tokenized Images (25 Points)*
 
+_For bonus question, you can find the vqvae checkpoints [here](https://drive.google.com/drive/folders/1Gfk-OOzmOXQ0J3WbQU7jy99Xk4gNfirw?usp=sharing). You must put them inside your `./data/hw1_data/` folder._
+
 
 # Assignment Policy
 
