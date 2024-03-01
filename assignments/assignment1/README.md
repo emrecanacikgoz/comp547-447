@@ -13,7 +13,7 @@ You can open the notebook in Google Colab to get access to a free GPU, or you ca
 * *Question1: 1D Data (25 Points)*
 * *Question2: PixelCNNs (45 Points)*
 * *Question3: Casual Transformer - iGPT (30 Points)*
-* *Bonus: Casual Transformer - Tokenized Images (30 Points)*
+* *Bonus: Casual Transformer - Tokenized Images (25 Points)*
 
 
 # Assignment Policy
